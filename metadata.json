@@ -1,0 +1,6 @@
+{
+  "name": "FORMA | Samyak Interiors",
+  "description": "Editorial interior architecture portfolio, curated works, spatial planning, and consultation booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
