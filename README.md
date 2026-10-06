@@ -1,4 +1,4 @@
-# FORMA | Samyak Interiors — Architecture & Interior Design Studio
+Samyak Interiors — Architecture & Interior Design Studio
 
 An editorial interior architecture portfolio, monograph showcase, consultation booking platform, and headless CMS management system designed for **FORMA | Samyak Interiors**.
 
